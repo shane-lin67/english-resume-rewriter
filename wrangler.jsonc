@@ -1,0 +1,8 @@
+{
+  "name": "english-resume-rewriter",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-01",
+  "vars": {
+    "MODEL": "YOUR_MODEL_NAME"
+  }
+}
